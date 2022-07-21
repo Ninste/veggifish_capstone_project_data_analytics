@@ -1,6 +1,6 @@
 # Veggi Fish - Potential european markets for plant-based seafood alternatives
 
-Final project at the Data Analytics Bootcamp @neuefische. This project has been developed in 4 weeks during June and July 2022 by Aida Casado Perez ([LinkedIn](https://www.linkedin.com/in/aida-casado-p%C3%A9rez-7561a9b7/)), Felix Neugebauer ([LinkedIn](https://www.linkedin.com/in/felix-neugebauer-7910481ba/)) and Nina Steinhübel ([LinkedIn](https://www.linkedin.com/in/nina-steinhuebel-2714b5140)).  
+Final project at the Data Analytics Bootcamp [@neuefische](https://www.neuefische.de/). This project has been developed in 4 weeks during June and July 2022 by Aida Casado Perez ([LinkedIn](https://www.linkedin.com/in/aida-casado-p%C3%A9rez-7561a9b7/)), Felix Neugebauer ([LinkedIn](https://www.linkedin.com/in/felix-neugebauer-7910481ba/)) and Nina Steinhübel ([LinkedIn](https://www.linkedin.com/in/nina-steinhuebel-2714b5140)).  
 Please feel free to contact us.
 
 
